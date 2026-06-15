@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">👋Olá, sou estudante de ADS. <br>🔍Estou a procura de experiência na área.<br>🌱Aberto a oportunidades de aprendizado e colaboração, estou ansioso para contribuir para projetos interessantes e desenvolver soluções criativas. <br>♿️Sou deficiente físico dos membros inferiores, na área eu encontrei a oportunidade de desenvolver habilidades sem limitações.</p>
+<p align="left">👋Olá, formado em ADS. <br>🔍Estou a procura de experiência na área.<br>🌱Aberto a oportunidades de aprendizado e colaboração, estou ansioso para contribuir para projetos interessantes e desenvolver soluções criativas. <br>♿️Sou deficiente físico dos membros inferiores, na área eu encontrei a oportunidade de desenvolver habilidades sem limitações.</p>
 
 ###
 
